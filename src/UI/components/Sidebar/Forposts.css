@@ -1,0 +1,8 @@
+.Fp{
+    background-color: rgb(76, 86, 82);
+    border-radius: 5px; 
+}
+.Btbtbt:hover{
+    border-radius: 10px;
+    padding: 2px;
+}

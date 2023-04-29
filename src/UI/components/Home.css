@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+.Overr{
+  background-image: url('1638026403_6-abrakadabra-fun-p-lev-v-korone-risunok-7.jpg');
+  background-size: 100%;
+
+}
+h1{
+  margin-left: 500px;
+  margin-bottom: 70px;
+}
+
+.Golova {
+    display: grid;
+    grid-template-areas: 
+    "h c";
+    grid-template-rows:5% 50%;
+    grid-template-columns: 20% 80%; 
+    
+  };
+.Content{
+ grid-area: c;
+}
+.Header{ 
+grid-area: h;
+}
